@@ -19,15 +19,16 @@ redirect_from:
     <h1 id="hero-title">Taorui Wang</h1>
     <p class="bio-hero__role">Ph.D. Candidate · Computer Vision &amp; Multimodal Intelligence</p>
     <p class="bio-hero__lead">
+      I am currently a Ph.D. candidate in a joint program between Harbin Institute of Technology
+      (Shenzhen) and Great Bay University. My research focuses on subtle human behavior understanding
+      and multimodal intelligence, with particular interests in micro-gesture recognition, multimodal
+      large language models, affective intelligence, and efficient 3D vision.
+    </p>
+    <p class="bio-hero__lead">
       I received my B.Sc. degree in Cyberspace Security from Harbin Institute of Technology
       in 2023, where I was supervised by Prof. Xiaojun Tong, and my M.Sc. degree in Artificial
       Intelligence from Nanyang Technological University in 2025, under the supervision of
       Prof. Shijian Lu.
-    </p>
-    <p class="bio-hero__lead">
-      I am currently a Ph.D. candidate in a joint program between Harbin Institute of Technology
-      (Shenzhen) and Great Bay University. My research interests include micro-gesture recognition,
-      multimodal large language models, affective intelligence, and efficient 3D vision.
     </p>
     <div class="hero-panel__actions" role="group" aria-label="Primary profile links">
       <a class="button button--primary" href="https://scholar.google.com/citations?user=k1fJCkIAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">
@@ -52,8 +53,8 @@ redirect_from:
 <section class="content-section content-section--near" id="news" aria-labelledby="news-title">
   <div class="section-heading section-heading--split">
     <div>
-      <p class="eyebrow">News</p>
-      <h2 id="news-title">Recent updates.</h2>
+      <p class="eyebrow">Updates</p>
+      <h2 id="news-title">Recent News</h2>
     </div>
   </div>
   <ol class="news-list">
@@ -74,38 +75,6 @@ redirect_from:
       <p><a href="https://arxiv.org/abs/2503.20221" target="_blank" rel="noopener noreferrer">TC-GS</a> was selected for an oral presentation at ICME 2025.</p>
     </li>
   </ol>
-</section>
-
-<section class="content-section" id="research" aria-labelledby="research-title">
-  <div class="section-heading">
-    <p class="eyebrow">Research</p>
-    <h2 id="research-title">Small signals, richer understanding.</h2>
-    <p>
-      My work sits at the intersection of computer vision and multimodal intelligence,
-      with an emphasis on representations that are both perceptive and practical.
-    </p>
-  </div>
-
-  <div class="focus-grid">
-    <article class="focus-card">
-      <div class="focus-card__icon focus-card__icon--coral" aria-hidden="true"><i class="fas fa-running"></i></div>
-      <p class="focus-card__index">01</p>
-      <h3>Subtle Behavior Understanding</h3>
-      <p>Recognizing micro-gestures and weak behavioral cues that support emotion and intention understanding.</p>
-    </article>
-    <article class="focus-card">
-      <div class="focus-card__icon focus-card__icon--blue" aria-hidden="true"><i class="fas fa-project-diagram"></i></div>
-      <p class="focus-card__index">02</p>
-      <h3>Multimodal Reasoning</h3>
-      <p>Connecting video, audio, language, and structured evidence through multimodal models and agentic systems.</p>
-    </article>
-    <article class="focus-card">
-      <div class="focus-card__icon focus-card__icon--mint" aria-hidden="true"><i class="fas fa-cube"></i></div>
-      <p class="focus-card__index">03</p>
-      <h3>Efficient Visual Computing</h3>
-      <p>Compressing and organizing 3D visual representations without giving up rendering quality or speed.</p>
-    </article>
-  </div>
 </section>
 
 <section class="content-section" id="publications" aria-labelledby="publications-title">
