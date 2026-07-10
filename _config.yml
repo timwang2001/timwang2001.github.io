@@ -7,7 +7,8 @@
 
 # Site Settings
 title                    : "Taorui Wang"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Ph.D. candidate working on micro-gesture recognition, multimodal large language models, affective computing, and efficient 3D vision."
+url                      : "https://timwang2001.github.io"
 repository               : "timwang2001/timwang2001.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Taorui Wang"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Harbin Institute of Technology,Shenzhen."
-  location         : "DongGuan, Guangdong, China"
-  employer         :
+  initials         : "TW"
+  bio              : "Ph.D. Candidate · Human-Centric AI"
+  location         : "Shenzhen / Dongguan, China"
+  employer         : "HIT (Shenzhen) · Great Bay University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=k1fJCkIAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=k1fJCkIAAAAJ&hl=en"
   email            : "wangtaorui@stu.hit.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "timwang2001"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +46,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0003-3492-4068"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
