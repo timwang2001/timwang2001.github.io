@@ -59,6 +59,14 @@ redirect_from:
   </div>
   <ol class="news-list">
     <li>
+      <time datetime="2026-07">Jul 2026</time>
+      <p>Our paper <strong>GMoT</strong> was accepted to ACM Multimedia 2026.</p>
+    </li>
+    <li>
+      <time datetime="2026-07">Jul 2026</time>
+      <p><a href="https://arxiv.org/abs/2604.12735" target="_blank" rel="noopener noreferrer">AffectAgent</a> was accepted to ACM Multimedia 2026.</p>
+    </li>
+    <li>
       <time datetime="2026-06">Jun 2026</time>
       <p><a href="https://arxiv.org/abs/2606.11385" target="_blank" rel="noopener noreferrer">DeceptionX</a>, an explainable multimodal deception-detection framework, was released on arXiv.</p>
     </li>
