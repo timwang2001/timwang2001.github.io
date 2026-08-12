@@ -133,3 +133,40 @@ h1:before,
 .greedy-nav .visible-links a {
   color: #6f777d;
 }
+
+/* The upstream theme prevents sidebar rows from wrapping by default. */
+.author__urls li,
+.author__urls .author__affiliation,
+.author__urls .author__affiliation span {
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+
+@include breakpoint($large) {
+  .profile_box {
+    display: block;
+  }
+
+  .author__urls-wrapper,
+  .author__urls,
+  .author__urls li {
+    width: 100%;
+    max-width: 100%;
+  }
+}
+
+.author__urls .author__affiliation {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.15em;
+}
+
+.author__urls .author__affiliation i {
+  flex: 0 0 auto;
+  margin-top: 0.15em;
+}
+
+.author__urls .author__affiliation span {
+  min-width: 0;
+  max-width: calc(100% - 1.5em);
+}
