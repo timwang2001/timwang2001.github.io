@@ -29,6 +29,10 @@ I received my B.Sc. degree in Cyberspace Security from Harbin Institute of Techn
 
 # 📝 Selected Publications
 
+- **[GMoT: Gated Motion-Aware Tokenization for Fine-Grained Micro-Gesture Video Reasoning with Multimodal LLMs](https://arxiv.org/abs/2607.16322)**  
+  **Taorui Wang**, Wei Xia, Hui Ma, Zijia Song, Jiayu Zhang, Zeheng Wang, Yong Xu, Zitong Yu  
+  *ACM Multimedia*, 2026.
+
 - **[Micro-gesture Recognition: A Comprehensive Survey of Datasets, Methods, and Challenges](https://doi.org/10.1007/s11633-025-1629-x)**  
   **Taorui Wang**<sup>†</sup>, Xun Lin<sup>†</sup>, Yong Xu, Qilang Ye, Dan Guo, Sergio Escalera, Ghada Khoriba, Zitong Yu  
   *Machine Intelligence Research*, 2026. [Project](https://github.com/timwang2001/Awesome_Micro_Gesture)
@@ -45,6 +49,7 @@ I received my B.Sc. degree in Cyberspace Security from Harbin Institute of Techn
 
 ## All Publications
 
+- **2026 · Conference:** [GMoT: Gated Motion-Aware Tokenization for Fine-Grained Micro-Gesture Video Reasoning with Multimodal LLMs](https://arxiv.org/abs/2607.16322). **Taorui Wang**, Wei Xia, Hui Ma, Zijia Song, Jiayu Zhang, Zeheng Wang, Yong Xu, Zitong Yu.
 - **2026 · Journal:** [Micro-gesture Recognition: A Comprehensive Survey of Datasets, Methods, and Challenges](https://doi.org/10.1007/s11633-025-1629-x). **Taorui Wang**<sup>†</sup>, Xun Lin<sup>†</sup>, Yong Xu, Qilang Ye, Dan Guo, Sergio Escalera, Ghada Khoriba, Zitong Yu.
 - **2026 · Conference:** [AffectAgent: Collaborative Multi-Agent Reasoning for Retrieval-Augmented Multimodal Emotion Recognition](https://arxiv.org/abs/2604.12735). Zeheng Wang, Zitong Yu, Yijie Zhu, Bo Zhao, Haochen Liang, **Taorui Wang**, et al.
 - **2026 · Workshop:** [SVC 2026: Multimodal Deception Detection and Domain-Generalized Remote Physiological Measurement](https://arxiv.org/abs/2604.05748). Dongliang Zhu, Zhiyi Niu, Bo Zhao, et al. (including **Taorui Wang**).
@@ -57,7 +62,6 @@ For the most up-to-date list, please see my [Google Scholar profile](https://sch
 
 # 💻 Projects
 
-- **[MG-Agent](https://github.com/timwang2001/MG-Agent):** A tool-using agent runtime for micro-gesture recognition with replayable reasoning and explicit evidence.
 - **[Awesome Micro-Gesture](https://github.com/timwang2001/Awesome_Micro_Gesture):** A continuously updated collection of datasets, methods, and resources for micro-gesture research.
 - **[TC-GS](https://github.com/timwang2001/TC-GS):** Official implementation of tri-plane based compression for 3D Gaussian Splatting.
 
