@@ -32,7 +32,7 @@ I received my B.Sc. degree in Cyberspace Security from Harbin Institute of Techn
 
 - **[GMoT: Gated Motion-Aware Tokenization for Fine-Grained Micro-Gesture Video Reasoning with Multimodal LLMs](https://arxiv.org/abs/2607.16322)**  
   **Taorui Wang**, Wei Xia, Hui Ma, Zijia Song, Jiayu Zhang, Zeheng Wang, Yong Xu, Zitong Yu  
-  *ACM Multimedia*, 2026.
+  *ACM Multimedia*, 2026. [Project](https://github.com/timwang2001/GMoT)
 
 - **[Micro-gesture Recognition: A Comprehensive Survey of Datasets, Methods, and Challenges](https://doi.org/10.1007/s11633-025-1629-x)**  
   **Taorui Wang**<sup>†</sup>, Xun Lin<sup>†</sup>, Yong Xu, Qilang Ye, Dan Guo, Sergio Escalera, Ghada Khoriba, Zitong Yu  
@@ -47,16 +47,6 @@ I received my B.Sc. degree in Cyberspace Security from Harbin Institute of Techn
   *ACM Multimedia*, 2026. [Project](https://github.com/Wz1h1NG/AffectAgent)
 
 <small><sup>†</sup> Equal contribution.</small>
-
-## All Publications
-
-- **2026 · Workshop / Competition (2nd Place):** [SwinT-Enhanced Class-Wise Fusion for Micro-gesture Classification](https://doi.org/10.1007/978-981-92-4529-1_3). **Taorui Wang**, Hui Ma, Wei Xia, Jiayu Zhang, Jiajian Huang, Yong Xu. *Communications in Computer and Information Science* (IJCAI 2026), pp. 28–34.
-- **2026 · Conference:** [GMoT: Gated Motion-Aware Tokenization for Fine-Grained Micro-Gesture Video Reasoning with Multimodal LLMs](https://arxiv.org/abs/2607.16322). **Taorui Wang**, Wei Xia, Hui Ma, Zijia Song, Jiayu Zhang, Zeheng Wang, Yong Xu, Zitong Yu.
-- **2026 · Journal:** [Micro-gesture Recognition: A Comprehensive Survey of Datasets, Methods, and Challenges](https://doi.org/10.1007/s11633-025-1629-x). **Taorui Wang**<sup>†</sup>, Xun Lin<sup>†</sup>, Yong Xu, Qilang Ye, Dan Guo, Sergio Escalera, Ghada Khoriba, Zitong Yu.
-- **2026 · Conference:** [AffectAgent: Collaborative Multi-Agent Reasoning for Retrieval-Augmented Multimodal Emotion Recognition](https://arxiv.org/abs/2604.12735). Zeheng Wang, Zitong Yu, Yijie Zhu, Bo Zhao, Haochen Liang, **Taorui Wang**, et al.
-- **2026 · Workshop:** [SVC 2026: Multimodal Deception Detection and Domain-Generalized Remote Physiological Measurement](https://arxiv.org/abs/2604.05748). Dongliang Zhu, Zhiyi Niu, Bo Zhao, et al. (including **Taorui Wang**).
-- **2025 · Conference:** [TC-GS: Tri-plane based Compression for 3D Gaussian Splatting](https://doi.org/10.1109/ICME59968.2025.11209880). **Taorui Wang**, Zitong Yu, Yong Xu.
-- **2025 · Workshop:** [SVC 2025: The First Multimodal Deception Detection Challenge](https://doi.org/10.1145/3728425.3759925). Xun Lin, Xiaobao Guo, **Taorui Wang**, Yingjie Ma, Jiajian Huang, Jiayu Zhang, Junzhe Cao, Zitong Yu.
 
 For the most up-to-date list, please see my [Google Scholar profile](https://scholar.google.com/citations?user=k1fJCkIAAAAJ&hl=en).
 
