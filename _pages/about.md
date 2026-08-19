@@ -19,7 +19,7 @@ I received my B.Sc. degree in Cyberspace Security from Harbin Institute of Techn
 # 🔥 News
 
 - *2026.08.11*: Our method placed **2nd** in Track 1 (Micro-gesture Classification) of the 4th MiGA-IJCAI Challenge. The accompanying paper, [SwinT-Enhanced Class-Wise Fusion for Micro-gesture Classification](https://doi.org/10.1007/978-981-92-4529-1_3), was published in the IJCAI 2026 workshop proceedings.
-- *2026.07*: Our paper **GMoT** was accepted to ACM Multimedia 2026.
+- *2026.07*: Our paper [**GMoT**](https://arxiv.org/abs/2607.16322) was accepted to ACM Multimedia 2026.
 - *2026.07*: [AffectAgent](https://arxiv.org/abs/2604.12735) was accepted to ACM Multimedia 2026.
 - *2026.06*: [DeceptionX](https://arxiv.org/abs/2606.11385), an explainable multimodal deception-detection framework, was released on arXiv.
 - *2026.04*: [AffectAgent](https://arxiv.org/abs/2604.12735), a collaborative multi-agent approach to multimodal emotion recognition, was released on arXiv.
