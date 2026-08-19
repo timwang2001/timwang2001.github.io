@@ -18,6 +18,7 @@ I received my B.Sc. degree in Cyberspace Security from Harbin Institute of Techn
 
 # 🔥 News
 
+- *2026.08.11*: Our method placed **2nd** in Track 1 (Micro-gesture Classification) of the 4th MiGA-IJCAI Challenge. The accompanying paper, [SwinT-Enhanced Class-Wise Fusion for Micro-gesture Classification](https://doi.org/10.1007/978-981-92-4529-1_3), was published in the IJCAI 2026 workshop proceedings.
 - *2026.07*: Our paper **GMoT** was accepted to ACM Multimedia 2026.
 - *2026.07*: [AffectAgent](https://arxiv.org/abs/2604.12735) was accepted to ACM Multimedia 2026.
 - *2026.06*: [DeceptionX](https://arxiv.org/abs/2606.11385), an explainable multimodal deception-detection framework, was released on arXiv.
@@ -49,6 +50,7 @@ I received my B.Sc. degree in Cyberspace Security from Harbin Institute of Techn
 
 ## All Publications
 
+- **2026 · Workshop / Competition (2nd Place):** [SwinT-Enhanced Class-Wise Fusion for Micro-gesture Classification](https://doi.org/10.1007/978-981-92-4529-1_3). **Taorui Wang**, Hui Ma, Wei Xia, Jiayu Zhang, Jiajian Huang, Yong Xu. *Communications in Computer and Information Science* (IJCAI 2026), pp. 28–34.
 - **2026 · Conference:** [GMoT: Gated Motion-Aware Tokenization for Fine-Grained Micro-Gesture Video Reasoning with Multimodal LLMs](https://arxiv.org/abs/2607.16322). **Taorui Wang**, Wei Xia, Hui Ma, Zijia Song, Jiayu Zhang, Zeheng Wang, Yong Xu, Zitong Yu.
 - **2026 · Journal:** [Micro-gesture Recognition: A Comprehensive Survey of Datasets, Methods, and Challenges](https://doi.org/10.1007/s11633-025-1629-x). **Taorui Wang**<sup>†</sup>, Xun Lin<sup>†</sup>, Yong Xu, Qilang Ye, Dan Guo, Sergio Escalera, Ghada Khoriba, Zitong Yu.
 - **2026 · Conference:** [AffectAgent: Collaborative Multi-Agent Reasoning for Retrieval-Augmented Multimodal Emotion Recognition](https://arxiv.org/abs/2604.12735). Zeheng Wang, Zitong Yu, Yijie Zhu, Bo Zhao, Haochen Liang, **Taorui Wang**, et al.
