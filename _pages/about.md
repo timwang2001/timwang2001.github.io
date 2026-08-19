@@ -10,7 +10,7 @@ redirect_from:
 
 <span class="anchor" id="about-me"></span>
 
-I am currently a Ph.D. candidate in a joint program between Harbin Institute of Technology (Shenzhen) and Great Bay University. My research focuses on subtle human behavior understanding and multimodal intelligence, with particular interests in micro-gesture recognition, multimodal large language models, affective intelligence, and efficient 3D vision.
+I am currently a Ph.D. candidate in a joint program between Harbin Institute of Technology (Shenzhen) and Great Bay University. I am supervised by Prof. [Yong Xu](https://homepage.hit.edu.cn/xuyong) and Prof. [Zitong Yu](https://zitongyu.github.io/). My research focuses on subtle human behavior understanding and multimodal intelligence, with particular interests in micro-gesture recognition, multimodal large language models, affective intelligence, and efficient 3D vision.
 
 I received my B.Sc. degree in Cyberspace Security from Harbin Institute of Technology in 2023, where I was supervised by Prof. Xiaojun Tong, and my M.Sc. degree in Artificial Intelligence from Nanyang Technological University in 2025, under the supervision of Prof. Shijian Lu.
 
